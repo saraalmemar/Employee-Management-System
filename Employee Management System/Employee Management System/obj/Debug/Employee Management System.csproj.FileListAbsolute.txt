@@ -1,0 +1,14 @@
+C:\Users\abdul\Desktop\Employee Management System\Employee Management System\bin\Debug\Employee Management System.exe.config
+C:\Users\abdul\Desktop\Employee Management System\Employee Management System\bin\Debug\Employee Management System.exe
+C:\Users\abdul\Desktop\Employee Management System\Employee Management System\bin\Debug\Employee Management System.pdb
+C:\Users\abdul\Desktop\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.AssemblyReference.cache
+C:\Users\abdul\Desktop\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Properties.Resources.resources
+C:\Users\abdul\Desktop\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.GenerateResource.cache
+C:\Users\abdul\Desktop\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Desktop\Employee Management System\Employee Management System\obj\Debug\Employee Management System.exe
+C:\Users\abdul\Desktop\Employee Management System\Employee Management System\obj\Debug\Employee Management System.pdb
+C:\Users\abdul\Desktop\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Login.resources
+C:\Users\abdul\Desktop\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Dashboard.resources
+C:\Users\abdul\Desktop\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Dashboard_Design.resources
+C:\Users\abdul\Desktop\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.AddEmployee.resources
+C:\Users\abdul\Desktop\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Salary.resources
